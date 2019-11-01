@@ -1,13 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_media/icon.png)
 
-# llvm-slicer
+# slicer
 
-> 基于https://github.com/zhangyz/llvm-slicing
+> llvm-slicer
 
 * 支持多种切片方式
 * 切片结果可视化
-* 可通过Docker容器部署
- 
+* 通过dokcer容器部署
 
-[开始使用](http://localhost:8001/)
-[帮助文档](#)
+[进入系统](http://lab.nuptuas.top:8081/)
+[使用说明](#首页)
