@@ -8,5 +8,5 @@
 * 切片结果可视化
 * 通过dokcer容器部署
 
-[开始使用](http://lab.nuptuas.top:8081/)
+[开始使用](http://www.nuptuas.top:8081/)
 [使用说明](#首页)

@@ -4,5 +4,5 @@
 - [开始切片](/slice)
 - [参数捕获](/argument)
 - [获取图像](/graph)
-- [切片结果](/container)
+- [切片结果文件查看](/container)
 - [视频演示](/video)
